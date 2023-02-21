@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>容华的博客</title>
   
+  <subtitle>编程生活</subtitle>
+  <link href="https://elbert-lau.github.io/project/atom.xml" rel="self"/>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
-  
-  <link href="http://example.com/"/>
+  <link href="https://elbert-lau.github.io/project/"/>
   <updated>2023-02-20T16:00:07.607Z</updated>
-  <id>http://example.com/</id>
+  <id>https://elbert-lau.github.io/project/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Elbert Lau</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>article title</title>
-    <link href="http://example.com/2023/02/20/article-title/"/>
-    <id>http://example.com/2023/02/20/article-title/</id>
+    <link href="https://elbert-lau.github.io/project/2023/02/20/article-title/"/>
+    <id>https://elbert-lau.github.io/project/2023/02/20/article-title/</id>
     <published>2023-02-20T15:30:18.000Z</published>
     <updated>2023-02-20T16:00:07.607Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2023/02/20/hello-world/"/>
-    <id>http://example.com/2023/02/20/hello-world/</id>
+    <link href="https://elbert-lau.github.io/project/2023/02/20/hello-world/"/>
+    <id>https://elbert-lau.github.io/project/2023/02/20/hello-world/</id>
     <published>2023-02-20T14:31:24.194Z</published>
     <updated>2023-02-20T14:31:24.194Z</updated>
     
