@@ -3,11 +3,11 @@
   <title>容华的博客</title>
   
   <subtitle>编程生活</subtitle>
-  <link href="https://elbert-lau.github.io/project/atom.xml" rel="self"/>
+  <link href="https://elbert-lau.github.io/atom.xml" rel="self"/>
   
-  <link href="https://elbert-lau.github.io/project/"/>
+  <link href="https://elbert-lau.github.io/"/>
   <updated>2023-02-20T16:00:07.607Z</updated>
-  <id>https://elbert-lau.github.io/project/</id>
+  <id>https://elbert-lau.github.io/</id>
   
   <author>
     <name>Elbert Lau</name>
@@ -18,17 +18,17 @@
   
   <entry>
     <title>article title</title>
-    <link href="https://elbert-lau.github.io/project/2023/02/20/article-title/"/>
-    <id>https://elbert-lau.github.io/project/2023/02/20/article-title/</id>
+    <link href="https://elbert-lau.github.io/2023/02/20/article-title/"/>
+    <id>https://elbert-lau.github.io/2023/02/20/article-title/</id>
     <published>2023-02-20T15:30:18.000Z</published>
     <updated>2023-02-20T16:00:07.607Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/project/images/article-title/u=3785099761,3340885316&fm=253&fmt=auto&app=138&f=JPEG.jpeg" alt="极品美女模特黑丝美腿床上性感写真"></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/images/article-title/u=3785099761,3340885316&fm=253&fmt=auto&app=138&f=JPEG.jpeg" alt="极品美女模特黑丝美腿床上性感写真"></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/project/images/article-title/u=3785099761,3340885316&amp;fm=253&amp;fmt=auto&amp;app=138&amp;f=JPEG.jpeg&quot; alt=&quot;极品美女模特黑丝美腿床上性感写真&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/article-title/u=3785099761,3340885316&amp;fm=253&amp;fmt=auto&amp;app=138&amp;f=JPEG.jpeg&quot; alt=&quot;极品美女模特黑丝美腿床上性感写真&quot;&gt;&lt;/p&gt;
 </summary>
       
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://elbert-lau.github.io/project/2023/02/20/hello-world/"/>
-    <id>https://elbert-lau.github.io/project/2023/02/20/hello-world/</id>
+    <link href="https://elbert-lau.github.io/2023/02/20/hello-world/"/>
+    <id>https://elbert-lau.github.io/2023/02/20/hello-world/</id>
     <published>2023-02-20T14:31:24.194Z</published>
     <updated>2023-02-20T14:31:24.194Z</updated>
     
